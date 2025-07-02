@@ -9,7 +9,7 @@ This repository documents my journey through curated books, resources, and notes
 
 ## 📘 Book List
 
-| 📚 Book Title | 🧠 Author | 🔗 Link / Info |
+| 📚 Title     |  Author   | 🔗 Link        |
 |--------------|-----------|----------------|
 | **LLMs from Scratch (Build a Large Language Model)** | Sebastian Raschka | [GitHub Repo](https://github.com/rasbt/LLMs-from-scratch) |
 | **AI Engineering** | Chip Huyen | [Author’s Book Page](https://huyenchip.com/books/) |
@@ -19,7 +19,7 @@ This repository documents my journey through curated books, resources, and notes
 
 ---
 
-## 🗂️ Repo Structure (planned)
+## 🗂️ Repo Structure (under construction)
 
 - `/books/` → One Markdown file per book (summaries, reflections, key takeaways)
 - `/resources/` → Tools, datasets, courses, talks etc.
@@ -27,7 +27,7 @@ This repository documents my journey through curated books, resources, and notes
 
 ---
 
-## 🌐 Topics I'm focusing on
+## My focus
 
 - Large Language Models (LLMs)
 - AI Ethics & Fairness in AI
@@ -37,15 +37,15 @@ This repository documents my journey through curated books, resources, and notes
 
 ---
 
-## 🤝 Let's connect
+## Let's connect
 
 If you're also retraining, diving deeper into Ethical AI, or just passionate about this field – feel free to open issues, PRs, or just connect via [LinkedIn](https://www.linkedin.com/in/philipp-prinzen-46a51a166/).
 
 ---
 
-## 🪪 License
+## License
 
-To be defined – for now, feel free to explore & learn with me!
+CC0 1.0 Universal
 
 ---
 
