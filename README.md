@@ -9,7 +9,7 @@ This repository documents my journey through curated books, resources, and notes
 
 ## 📘 Book List
 
-| 📚 Title     |  Author   | 🔗 Link        |
+| Title        | Author    | Link           |
 |--------------|-----------|----------------|
 | **LLMs from Scratch (Build a Large Language Model)** | Sebastian Raschka | [GitHub Repo](https://github.com/rasbt/LLMs-from-scratch) |
 | **AI Engineering** | Chip Huyen | [Author’s Book Page](https://huyenchip.com/books/) |
